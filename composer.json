@@ -1,0 +1,22 @@
+{
+  "name": "mykemeynell/laraveluuid",
+  "description": "UUID column functionality for Laravel projects",
+  "keywords": ["uuid column", "database", "laravel"],
+  "type": "project",
+  "authors": [
+    {
+      "name": "Myke Meynell",
+      "email": "iam@mykemeynell.com"
+    }
+  ],
+  "require": {
+    "php": ">=7.1.0",
+    "ramsey/uuid": "^3.8",
+    "illuminate/database": "^5.8"
+  },
+  "autoload": {
+    "psr-4": {
+      "UuidColumn\\": "src/"
+    }
+  }
+}
