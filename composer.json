@@ -13,9 +13,6 @@
     "php": ">=7.1.0",
     "ramsey/uuid": "^3.8"
   },
-  "require-dev": {
-    "illuminate/database": "^5.8"
-  },
   "autoload": {
     "psr-4": {
       "UuidColumn\\": "src/"
