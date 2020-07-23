@@ -2,7 +2,7 @@
   "name": "mykemeynell/laraveluuid",
   "description": "UUID column functionality for Laravel projects",
   "keywords": ["uuid column", "database", "laravel"],
-  "type": "project",
+  "type": "library",
   "authors": [
     {
       "name": "Myke Meynell",
